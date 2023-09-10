@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning C#<br>⚡ Fun fact ?
+🌱 I’m currently learning C#<br>⚡ Fun fact The "NullPointerException" error in the Java programming language is a commonly encountered error type among developers and sometimes becomes a subject of jokes.
 
 
 ## 🌐 Socials:
