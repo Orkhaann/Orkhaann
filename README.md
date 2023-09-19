@@ -16,7 +16,7 @@
 
 <!---💬 Ask me about **Node.js, React, Firebase, MongoDB... or anything [here](https://github.com/salesp07/salesp07/issues)**](url) --->
 
- ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+ ⚡ Fun fact **The first computer error message occurred in 1947 with the Harvard Mark II computer and was triggered by an actual insect (bug). This is why the term "bug" is used for programming errors.**
  
  </div>
  
