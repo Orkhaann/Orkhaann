@@ -29,10 +29,9 @@
     {
         var dev = new Developer()
         {
-          FirstName = &quot;Isa&quot;,
+          FirstName = &quot;Orkhan&quot;,
           LastName = &quot;Mamamadli&quot;.
-          Age = (DateTime.UtcNow.Year - 2003),
-          Level = DeveloperLevel.JuniorMiddle
+          Level = DeveloperLevel.Junior
         };
         dev.Run();
     }
