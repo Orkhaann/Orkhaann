@@ -17,9 +17,8 @@ namespace Azerbaijan
     {
         var dev = new Developer()
         {
-          FirstName = "Isa",
+          FirstName = "Orkhan",
           LastName = "Mamamadli".
-          Age = (DateTime.UtcNow.Year - 2003),
           Level = DeveloperLevel.JuniorMiddle
         };
         dev.Run();
