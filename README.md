@@ -27,8 +27,6 @@ namespace Azerbaijan
   }
 }
 ```
- 
-<h2 align="center">⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=unreal,unity,html,css,vscode,xd,pr,ps" />
@@ -36,4 +34,4 @@ namespace Azerbaijan
 </div>
 
 
-<hr/>
+<br/>
