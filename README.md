@@ -8,8 +8,6 @@
 
 <br/>
 
-<hr>
-
  ```csharp
 namespace Azerbaijan
 {
