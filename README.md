@@ -52,7 +52,6 @@ namespace Azerbaijan
 </div>
 
 <br/>
-<hr/>
 
 <hr/>
 
