@@ -76,7 +76,3 @@ namespace Azerbaijan
 <br/><br/>
 
 <hr/>
-
-<br/>
-
-<br/>
