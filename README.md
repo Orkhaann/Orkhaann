@@ -47,8 +47,8 @@ namespace Azerbaijan
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=unreal,unity,mui,html,css,vscode,xd,pr,ps" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,js,cs,cpp,dotnet,mongodb,c,java,nextjs,mysql,flask" /><br>
 </div>
 
 <hr/>
