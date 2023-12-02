@@ -26,8 +26,8 @@ namespace Azerbaijan
 ```
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=unreal,unity,html,css,vscode,xd,pr,ps" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,js,cs,cpp,dotnet,mongodb" /><br>
+    <img src="https://skillicons.dev/icons?i=unreal,unity,html,css" />
+    <img src="https://skillicons.dev/icons?i=python,js,cs,cpp,dotnet" /><br>
 </div>
 
 
