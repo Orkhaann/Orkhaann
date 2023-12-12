@@ -27,7 +27,7 @@ namespace Azerbaijan
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,js" />
-    <img src="https://skillicons.dev/icons?i=python,cs,cpp,dotnet" /><br>
+    <img src="https://skillicons.dev/icons?i=python,cs,cpp,dotnet,tsql" /><br>
 </div>
 
 
