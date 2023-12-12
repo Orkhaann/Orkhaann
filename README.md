@@ -7,7 +7,7 @@
 <br/>
 
  ```csharp
-namespace Azerbaijan
+namespace USA
 {
   public static class Program
   {
